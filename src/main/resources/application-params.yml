@@ -1,0 +1,3 @@
+params:
+  transHost: http://localhost:9092/adapter/terminal/business.do
+  uploadPath: E://xiaowei//temp
